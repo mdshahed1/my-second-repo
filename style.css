@@ -4,3 +4,7 @@ p{
 h3{
     color: orangered;
 }
+li{
+    font-size: 1.5em;
+    font-weight: 700;
+}
